@@ -30,8 +30,16 @@ Cpp-with-DSA/
 │   ├── IfElseifElse.cpp       # If-Elseif-Else ladder
 │   └── HomeWork.cpp           # Practice problems
 │
-└── Loops/
-    └── (Coming Soon)
+├── Patterns/
+│   ├── Pattern1.cpp           # Square pattern with asterisks
+│   └── Pattern2.cpp           # Number pattern (row numbers)
+│
+└── While Loops/
+    ├── While.cpp              # Basic while loop examples
+    ├── FahrenheitTOCelsius.cpp # Temperature conversion
+    ├── PrimeusingWhile.cpp    # Prime number checker
+    ├── WhileQuestion1.cpp     # Practice problem 1
+    └── WhileQuestion2.cpp     # Practice problem 2
 ```
 
 ## 🚀 Getting Started
@@ -69,11 +77,22 @@ filename.exe      # On Windows
 - If-Elseif-Else ladder
 - Conditional logic practice problems
 
-### 🔄 Loops (Coming Soon)
-- For loops
-- While loops
-- Do-While loops
-- Nested loops
+### ✅ Patterns
+- Square pattern printing with asterisks
+- Number patterns using nested loops
+- Pattern generation using while loops
+
+### ✅ While Loops
+- Basic while loop syntax and usage
+- Temperature conversion (Fahrenheit to Celsius)
+- Prime number checking algorithm
+- Practice problems with while loops
+- Nested while loops for patterns
+
+### 🔄 For Loops (Coming Soon)
+- For loop syntax
+- Nested for loops
+- Loop variations
 
 ### 📊 Data Structures (Coming Soon)
 - Arrays
